@@ -89,6 +89,15 @@ For example: the email address *mike.walsh@mai.com* will work as the local part 
 
  What email wouldn't work? The email *mike.walsh@T.com* would not work because the end domain only consists of 1 character. 
 
+ # Summary
+
+ All in all the email validation regex is a very simple regex that allows for a lot of flexibility in email addresses. It is a very useful regex for validating email addresses. 
+
+ In order to use the email validation regex in javascript, you would use:
+ 
+ `const emailValidateRegex = /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/;
+`
+
 # About the Author
 My name is Tamer Bekir and I am a junior software developer! I began my journey into software development in 2023 and have been learning and improving my skills ever since then. While I am always growing and learning, I have so far familiarized and worked with back-end and front-end coding which has been a very fun and challenging experience. 
 
