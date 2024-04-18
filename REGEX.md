@@ -9,7 +9,7 @@ This tutorial is a complete guide to what a Regex is, how it is used, and what i
 The regex pattern we go over and discuss in this tutorial is the *Email Validation*
 which looks like this:
 
-/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
+`/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
 
 I know the jumble of numbers, symbols, and words can seem a bit intimidating and confusing, but by the end of this tutorial, you will have a better understanding of what it all means.
 
