@@ -22,11 +22,11 @@ So, let us begin to break down the regex little by little so we can understand h
 
 # Table of Contents
 - [Delimiters](#Delimiters)
-- [The Email  dName](#TheEmailName)
-- [Literal Character](#LiteralCharacter)
-- [Domain Name](#DomainName)
-- [Top-Level Domain](#Top-LevelDomain)
-- [About the Author](#AbouttheAuthor)
+- [The Email Name](#The-Email-Name)
+- [Literal Character](#Literal-Character)
+- [Domain Name](#Domain-Name)
+- [Top-Level Domain](#Top-Level-Domain)
+- [About the Author](#About-the-Author)
 
 # Delimiters
 ^ and $
